@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ivan.
-- 🧑‍🎓 Studying at Universite de Montreal, PhD track in Computer Graphics
+- 🧑‍🎓 Graduated with PhD track in Computer Graphics, Universite de Montreal
+- 🤖 Now working on LLMs and Agentic workflows at Coverstar (among many other things)
 - 🇺🇦 Check out my website at [puhachov.xyz](puhachov.xyz)
 
 <!---
